@@ -24,6 +24,13 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
+# HOW TO USE:
+
+Just past in your real mode ASM code (Also known as boot sector code or 16 bit real mode), then select your output type (.BIN, .IMG, or .ISO, all useable in QEMU or use the ISO in Hyper-V), click download, select your output destination, then click save.
+
+______________________________________________________________________________
+
+
 # TURN IT INTO THE EXE USING PYINSTALLER
 
 1: Install pyinstaller (pip install pyinstaller)
